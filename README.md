@@ -13,6 +13,8 @@ pnpm dev
 
 ## Features
 
+cats
+
 This template offers the following features:
 
 - Built with Starlight, a modern frontend framework.
